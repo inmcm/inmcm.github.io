@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "INMCM",
-    "description": "An Infrequent Tech Blog"
+    "description": "An Infrequent Tech Blog",
+    "cover": "pcb.png"
   },
   "socialnetwork": {
     "twitter": "@inmcmbyte",
