@@ -1,0 +1,8 @@
+= My First Post
+:hp-tags: HubPress, Blog, Open Source
+
+Hello, This is a Test Post using Hubpress!
+
+This is a picture of a ceiling fan: 
+
+image::IMG_3503.JPG[]
