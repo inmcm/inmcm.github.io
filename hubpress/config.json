@@ -8,7 +8,8 @@
     "title": "INMCM",
     "description": "An Infrequent Tech Blog",
     "logo": "",
-    "cover": "/images/closeup.jpg"
+    "cover": "/images/closeup.jpg",
+    "googleAnalytics": "UA-80826048-1"
   },
   "socialnetwork": {
     "twitter": "@inmcmbyte",
