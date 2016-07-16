@@ -4,7 +4,12 @@
     "repositoryName": "inmcm.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "@inmcmbyte",
+    "github": "inmcm"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
