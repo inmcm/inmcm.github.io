@@ -4,12 +4,16 @@
     "repositoryName": "inmcm.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "INMCM",
+    "description": "An Infrequent Tech Blog",
+    "cover": "/images/pcb.png"
+  },
   "socialnetwork": {
     "twitter": "@inmcmbyte",
     "github": "inmcm"
   },
   "theme": {
-    "name": "casper"
+    "name": "saga"
   }
 }

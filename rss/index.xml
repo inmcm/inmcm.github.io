@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[INMCM]]></title><description><![CDATA[An Infrequent Tech Blog]]></description><link>https://inmcm.github.io</link><image><url>/images/pcb.png</url><title>INMCM</title><link>https://inmcm.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Sat, 16 Jul 2016 01:32:20 GMT</lastBuildDate><atom:link href="https://inmcm.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[My First Post]]></title><description><![CDATA[<div class="paragraph">
+<p>Hello, This is a Test Post using Hubpress!</p>
+</div>
+<div class="paragraph">
+<p>This is a picture of a ceiling fan:</p>
+</div>
+<div class="imageblock">
+<div class="content">
+<img src="https://inmcm.github.io/images/IMG_3503.JPG" alt="IMG 3503.JPG">
+</div>
+</div>]]></description><link>https://inmcm.github.io/2016/07/15/My-First-Post.html</link><guid isPermaLink="true">https://inmcm.github.io/2016/07/15/My-First-Post.html</guid><category><![CDATA[HubPress]]></category><category><![CDATA[ Blog]]></category><category><![CDATA[ Open Source]]></category><dc:creator><![CDATA[Calvin McCoy]]></dc:creator><pubDate>Fri, 15 Jul 2016 00:00:00 GMT</pubDate></item></channel></rss>
