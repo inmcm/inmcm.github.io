@@ -4,12 +4,15 @@
     "repositoryName": "inmcm.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "INMCM",
+    "description": "An Infrequent Tech Blog"
+  },
   "socialnetwork": {
     "twitter": "@inmcmbyte",
     "github": "inmcm"
   },
   "theme": {
-    "name": "casper"
+    "name": "saga"
   }
 }
